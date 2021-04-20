@@ -1,8 +1,36 @@
 # Goblin
 Monstars official website and first project of monstars, still a work in progress!
 
-**Features (To do):**
+**Features + To do:**
+
+A pwa so it can be installed and feels like a normal browser
+
+A tabed interface like hypertabs
+
+Keyobred shortcuts like ctrl+t and ctrl+w
+
+Special urls like goblin://settings goblin://music
+
+Youtube downloader/unblocker
+
+Proxys in goblin://proxys
+
+Deployable on heroku and replit
+
+Chatbox (chatutils)
 
 **Finished:**
 
 **Resources:**
+
+Pwa: https://github.com/jamesjohnson280/hello-pwa
+
+Youtube downloader: https://github.com/Pers0n-dev/youtube-downloader
+
+Hypertabs?: https://github.com/omer515/hypertab
+
+Chatutils: https://github.com/titaniumnetwork-dev/chatutils
+
+**Warning:**
+
+This is not ready for use
