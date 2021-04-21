@@ -1,6 +1,8 @@
 # Goblin Browser
 The official website and first project of monstars, still a work in progress!
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
 **Features + To do:**
 
 A pwa so it can be installed and feels like a normal browser
