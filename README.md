@@ -21,6 +21,8 @@ Chatbox (chatutils)
 
 **Finished:**
 
+pwa
+
 **Resources:**
 
 Pwa: https://github.com/jamesjohnson280/hello-pwa
