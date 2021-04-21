@@ -2,7 +2,6 @@ var cacheName = 'goblin';
 var filesToCache = [
   '/',
   '/index.html',
-  '/css/style.css',
   '/js/main.js'
 ];
 
