@@ -1,25 +1,36 @@
-# Hello PWA
-The classic Hello World program as a Progressive Web App
+# Goblin Browser
+The official website and first project of monstars, still a work in progress!
 
-![Hello World Screenshot](./screenshot.jpg "Hello World Screenshot")
+**Features + To do:**
 
-## What It Is
+A pwa so it can be installed and feels like a normal browser
 
-A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependencies.
+A tabed interface like hypertabs
 
-I've also written a tutorial to go along with the code. Read it on Medium:
+Keyobred shortcuts like ctrl+t and ctrl+w
 
-https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
+Special urls like goblin://settings goblin://music
 
-## Demo
+Youtube downloader/unblocker
 
-https://jamesjohnson280.github.io/hello-pwa/
+Proxys in goblin://proxys
 
-## Browser Compatibility
+Deployable on heroku and replit
 
-Hello PWA has been tested in the following browsers:
+Chatbox (chatutils)
 
-* Chrome 67 (Windows and Android)
-* Firefox 60
-* Safari 11
-* Edge 42
+**Finished:**
+
+**Resources:**
+
+Pwa: https://github.com/jamesjohnson280/hello-pwa
+
+Youtube downloader: https://github.com/Pers0n-dev/youtube-downloader
+
+Hypertabs?: https://github.com/omer515/hypertab
+
+Chatutils: https://github.com/titaniumnetwork-dev/chatutils
+
+**Warning:**
+
+This is not ready for use
