@@ -1,0 +1,6 @@
+{
+  "name": "Goblin Browser",
+  "description": "Monstars official website and first project (wip)",
+  "repository": "https://github.com/Monstars-dev/Goblin/",
+  "keywords": ["nodejs", "javascript", "pwa", "proxy-site", "unblocker", "monstars", "chat"]
+}
