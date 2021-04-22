@@ -2,8 +2,8 @@ var cacheName = 'goblin';
 var filesToCache = [
   '/',
   '/index.html',
-  '/css/style.css',
-  '/js/main.js'
+  '/css/css.css',
+  '/js/js.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
