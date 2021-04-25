@@ -1,6 +1,8 @@
 # Goblin Browser
 The official website and first project of monstars, still a work in progress!
 
+![screenshot](https://raw.githubusercontent.com/Monstars-dev/Goblin/main/goblinscreenshot.png)
+
 This is going to be a full chrome replacement (pwa)
 
 It looks like hypertabs right now, this is just for testing
