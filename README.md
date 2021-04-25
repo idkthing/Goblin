@@ -1,13 +1,19 @@
 # Goblin Browser
-The official website and first project of monstars, still a work in progress!
+The hub for all things anti-censorship, still a work in progress!
 
 ![screenshot](https://raw.githubusercontent.com/Monstars-dev/Goblin/main/goblinscreenshot.png)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
+**About:**
+
+This is a browser for things like proxys movies and other tools for bypassing filters
+
+If you use the zoom bypass method, this can be very helpfull
 
 This is going to be a full chrome replacement (pwa)
 
 It looks like hypertabs right now, this is just for testing
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
 **Features + To do:**
 
@@ -29,15 +35,11 @@ Chatbox (chatutils)
 
 **Finished:**
 
-pwa
-
 **Resources:**
 
 Pwa: https://github.com/jamesjohnson280/hello-pwa
 
 Youtube downloader: https://github.com/Pers0n-dev/youtube-downloader
-
-Hypertabs?: https://github.com/omer515/hypertab
 
 Chatutils: https://github.com/titaniumnetwork-dev/chatutils
 
